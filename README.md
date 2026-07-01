@@ -66,7 +66,6 @@ Hi! Thank you for taking the time to view my GitHub Profile! 😄
   </tr>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaungMyatHtet-Coding&layout=compact&theme=tokyonight" alt="Top Languages"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=KaungMyatHtet-Coding&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20Summary&disable_animations=true&theme=tokyonight" alt="GitHub Summary"></td>
   </tr>
 </table>
 
